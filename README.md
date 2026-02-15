@@ -4,7 +4,7 @@ This repository contains MATLAB code for analyzing direction-selective responses
 
 ## Publication
 
-**Soto F, Hsiang JC, Rajagopal R, Piggott K, Harocopos GJ, Couch SM, Custer P, Morgan JL, Kerschensteiner D.**  
+**Soto F, Tien NW, Goel A, Zhao L, Ruzycki PA, Kerschensteiner D.**  
 *"AMIGO2 Scales Dendrite Arbors in the Retina"*  
 Cell Reports, 2019
 
