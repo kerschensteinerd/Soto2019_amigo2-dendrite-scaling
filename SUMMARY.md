@@ -287,7 +287,7 @@ All issues are **fixable** with the roadmap I've provided. The critical fixes ta
 ## Files in This Repository
 
 ```
-CellRep_2019/
+Soto2019_amigo2-dendrite-scaling/
 ├── README.md                          # Updated with comprehensive info
 ├── SUMMARY.md                         # This file - investigation overview
 ├── ANALYSIS_GUIDE.md                  # Complete usage and technical guide
