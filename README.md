@@ -1,4 +1,4 @@
-# CellRep_2019
+# Soto2019_amigo2-dendrite-scaling
 
 This repository contains MATLAB code for analyzing direction-selective responses to drifting grating stimuli in multielectrode array (MEA) recordings from retinal ganglion cells.
 
